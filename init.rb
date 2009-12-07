@@ -1,1 +1,1 @@
-require 'lib/after_commit.rb'
+require 'after_commit'
